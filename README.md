@@ -63,7 +63,7 @@ Funding should follow the risk, not the headlines.
 
 **Immediate priority:** Italy's Food & Beverage sector, Nigeria's Retail & E-commerce workforce, and Singapore's Healthcare sector, not because they're the most visible, but because they're the most exposed and the least protected.
 
-**Study, don't just spend:** rather than pouring further money into infrastructure, coalitions would do better studying what "Advanced" policy-maturity countries are doing right — their approach to reskilling is already outperforming more "Established" peers, and that playbook is more replicable than raw infrastructure spend.
+**Study, don't just spend:** rather than pouring further money into infrastructure, coalitions would do better studying what "Advanced" policy-maturity countries are doing right, their approach to reskilling is already outperforming more "Established" peers, and that playbook is more replicable than raw infrastructure spend.
 
 **Watch the mid-tier risk, not just the top.** Food & Beverage's position at #2 in displacement risk, while receiving almost no dedicated policy attention, is exactly the kind of blind spot that turns into next year's emergency.
 
