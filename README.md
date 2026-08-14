@@ -57,7 +57,7 @@ Countries with Advanced AI policy maturity post a 0.60 job creation-to-displacem
 
 **The clearest red flag in the whole dataset: money isn't following risk.**
 
-![Actionable Insights Page](./screenshots/Insights.png)
+![Actionable Insights Page](./Insights.jpg)
 
 Italy's Food & Beverage sector carries the **maximum possible displacement risk score** in the entire dataset,a perfect 10 out of 10 — yet receives just **$5.72** in reskilling investment per displaced worker. The shortfall ranking on the Insights page above surfaces this exact combination as the single sharpest funding gap in the study.
 
