@@ -10,7 +10,7 @@ That was the brief handed down from the director: investigate how AI adoption is
 
 So I pulled 300 quarterly records spanning **30 countries, 25 industries, and 8 skill categories**, built a full Power BI data model from scratch, and went looking for the answer.
 
-![Full Dashboard Overview](./screenshots/Dashboard.png)
+![Full Dashboard Overview](.Dashboard.jpg)
 
 
 The answer, it turns out, is the second one. AI adoption didn't creep upward. It nearly doubled in a single quarter.
