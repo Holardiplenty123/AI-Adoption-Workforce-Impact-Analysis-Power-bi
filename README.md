@@ -1,12 +1,12 @@
 # AI Adoption & Workforce Impact Analysis
 
-**Power BI project · Onyx Data DataDNA Challenge**
+## Power BI project 
 
 ---
 
 ## The Question Nobody Could Agree On
 
- #AI reshaping the global workforce gradually, or did something break, all at once, the moment generative AI tools hit the mainstream?
+ # AI reshaping the global workforce gradually, or did something break, all at once, the moment generative AI tools hit the mainstream?
 
 That was the brief handed down from the director: investigate how AI adoption is reshaping employment across countries, industries, and skill categories between 2021 and 2024, with particular attention to what changed once generative AI arrived in late 2022. A policy coalition needed the answer before deciding where to send reskilling funding, and "AI is disrupting jobs" isn't specific enough to write a check against. They needed to know *which* jobs, *where*, and *how fast*.
 
