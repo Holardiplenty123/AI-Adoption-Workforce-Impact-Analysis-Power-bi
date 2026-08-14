@@ -1,7 +1,5 @@
 # AI Adoption & Workforce Impact Analysis
 
-## Power BI project 
-
 ---
 
 ## The Question Nobody Could Agree On
