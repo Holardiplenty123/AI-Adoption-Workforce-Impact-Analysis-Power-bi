@@ -31,7 +31,7 @@ Not measures for measures' sake, every one traces back to a guiding question: *W
 **4. A 3-page report that argues, not just displays.**
 Executive Summary → Detailed Analysis → Actionable Insights, mirroring the brief's own deliverable structure, so each page has a distinct job: show the trend, diagnose where the problem is, and recommend what to do about it.
 
-![Executive Summary Page](./screenshots/Executive_Summary.jpg)
+![Executive Summary Page](./Executive_Summary.jpg)
 
 ---
 
