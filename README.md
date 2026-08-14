@@ -10,6 +10,9 @@ That was the brief handed down from the director: investigate how AI adoption is
 
 So I pulled 300 quarterly records spanning **30 countries, 25 industries, and 8 skill categories**, built a full Power BI data model from scratch, and went looking for the answer.
 
+![Full Dashboard Overview](./screenshots/Dashboard.png)
+
+
 The answer, it turns out, is the second one. AI adoption didn't creep upward. It nearly doubled in a single quarter.
 
 ---
@@ -28,6 +31,8 @@ Not measures for measures' sake, every one traces back to a guiding question: *W
 **4. A 3-page report that argues, not just displays.**
 Executive Summary → Detailed Analysis → Actionable Insights, mirroring the brief's own deliverable structure, so each page has a distinct job: show the trend, diagnose where the problem is, and recommend what to do about it.
 
+![Executive Summary Page](./screenshots/Executive_Summary.jpg)
+
 ---
 
 ## Insights
@@ -36,22 +41,27 @@ Executive Summary → Detailed Analysis → Actionable Insights, mirroring the b
 Average adoption sat in a narrow 16–22% band through 2021 and most of 2022, then jumped to 40.2% in Q4 2022 and has held in the mid-30s to mid-40s ever since. Not a trend line. A step-change.
 
 **Job displacement has outpaced job creation in every single quarter.**
-586,785 jobs displaced against 296,355 created, a net shortfall of 290,430 jobs, with no quarter bucking the pattern.
+586,785 jobs displaced against 296,355 created — a net shortfall of 290,430 jobs, with no quarter bucking the pattern.
 
 **The riskiest industry isn't the only one worth worrying about.**
-Information Technology tops the displacement risk index (5.18/10), unsurprising. But Food & Beverage sits right behind it at 5.11/10, a sector that barely registers in most AI policy conversations despite carrying nearly as much exposure.
+
+![Detailed Analysis Page](./screenshots/Analysis.png)
+
+Information Technology tops the displacement risk index (5.18/10), unsurprising. But Food & Beverage sits right behind it at 5.11/10, a sector that barely registers in most AI policy conversations despite carrying nearly as much exposure. As the analysis page above shows, displacement risk by industry and the reskilling mismatch by skill category both point to the same underlying story: exposure and preparedness are badly out of sync.
 
 **Infrastructure is a weaker shield than everyone assumes.**
 Digital infrastructure quality barely correlates with displacement risk (r ≈ -0.19). STEM graduate density does more work (r ≈ -0.32) — skills pipelines appear to matter more than fiber-optic cables.
 
-**The developed-vs-emerging adoption gap is smaller than the headlines suggest.**
-30.98% vs. 30.22%. AI adoption is not simply tracking traditional economic development lines.
-
 **"Advanced" policy maturity is quietly outperforming "Established."**
-Countries with Advanced AI policy maturity post a 0.60 job creation-to-displacement ratio, better than the supposedly more mature "Established" tier's 0.44.
+Countries with Advanced AI policy maturity post a 0.60 job creation-to-displacement ratio — better than the supposedly more mature "Established" tier's 0.44.
 
 **The clearest red flag in the whole dataset: money isn't following risk.**
-Italy's Food & Beverage sector carries the **maximum possible displacement risk score** in the entire dataset, a perfect 10 out of 10, yet receives just **$5.72** in reskilling investment per displaced worker. The thinnest safety net attached to the highest exposure anywhere in the study.
+
+![Actionable Insights Page](./screenshots/Insights.png)
+
+Italy's Food & Beverage sector carries the **maximum possible displacement risk score** in the entire dataset,a perfect 10 out of 10 — yet receives just **$5.72** in reskilling investment per displaced worker. The shortfall ranking on the Insights page above surfaces this exact combination as the single sharpest funding gap in the study.
+
+---
 
 ---
 
