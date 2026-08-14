@@ -45,7 +45,7 @@ Average adoption sat in a narrow 16–22% band through 2021 and most of 2022, th
 
 **The riskiest industry isn't the only one worth worrying about.**
 
-![Detailed Analysis Page](./screenshots/Analysis.png)
+![Detailed Analysis Page](./Analysis.jpg)
 
 Information Technology tops the displacement risk index (5.18/10), unsurprising. But Food & Beverage sits right behind it at 5.11/10, a sector that barely registers in most AI policy conversations despite carrying nearly as much exposure. As the analysis page above shows, displacement risk by industry and the reskilling mismatch by skill category both point to the same underlying story: exposure and preparedness are badly out of sync.
 
